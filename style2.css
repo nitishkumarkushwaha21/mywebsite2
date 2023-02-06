@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("aboutmebg.jpg");
+    background-size: cover;
+}
+
+button{
+    border: none;
+    background: white;
+    padding: 12px 33px;
+    border-radius: 30px;
+    color: #ea1538 ;
+    font-weight: bold;
+    font-size: 15px;
+    transition: .4s;
+}
+button:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+.social{
+    margin-left: 35%;
+}
+.container{
+    width: 300px;
+}

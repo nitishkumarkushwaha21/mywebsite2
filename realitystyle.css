@@ -1,0 +1,49 @@
+
+body{
+    height: 100vh;
+    width:auto;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/522/730/535/anime-black-rukia-kuchiki-anime-bleach-hd-art-wallpaper-preview.jpg);
+    background-size: cover;
+}
+.title{
+    color: white;
+     font-family:cursive ;
+     font-size: 30px;
+     margin-left: 230px;
+}
+.image5{
+    position: relative;
+    left: 40%;
+    bottom: 124%;  
+}
+.image6{
+    position: relative;
+    left: 40%;
+    bottom: 122%;
+}
+.image7{
+    position: relative;
+    left: 40%;
+    bottom: 120%;
+}
+.image8{
+    position: relative;
+    left: 40%;
+    bottom: 115%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
